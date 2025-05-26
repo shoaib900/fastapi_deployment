@@ -10,7 +10,7 @@ def data1():
 def data2():
     return [
         {
-            "name":"Adil",
+            "name":"humera",
             "age": 23,
             "class":"MS Artificial Intelligence"
         },
